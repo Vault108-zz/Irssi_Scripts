@@ -11,6 +11,7 @@ owl = [
   "https://media.giphy.com/media/jFnevLsaN7b7a/giphy.gif",
   "https://media.giphy.com/media/Lz9hJ22oekww0/giphy.gif",
   "https://media.giphy.com/media/4tkzBbvyzYuOs/giphy.gif" 
+
 ] 
 
 print "OWL GIF: " + (random.choice(owl))

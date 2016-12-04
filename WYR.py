@@ -30,6 +30,7 @@ WYR= [
 " Would you rather be incredibly happy but alone forever or unhappy but with the love of your life?",
 "Would you rather a vampire or a wizard?",
 "Would you rather be in a real version of The Walking Dead or Jurassic Park?"
+
 ]
 
 print(random.choice(WYR))
