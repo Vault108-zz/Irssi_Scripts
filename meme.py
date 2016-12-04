@@ -27,4 +27,4 @@ meme = [
 
 
 
-print(random.choice(meme))
+print "LOL " + (random.choice(meme))
