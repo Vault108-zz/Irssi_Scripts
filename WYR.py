@@ -25,9 +25,9 @@ WYR= [
 "Would you rather have HIV and live for 20 years or cancer and live for 10 years?",
 "Would you rather live in the house of your dreams but it doesn’t have internet access, or your current home for the rest of your life?",
 "Would you rather smell terrible (but you can’t smell it) or your partner smell terrible and you have to smell it?",
-" Would you rather have sex with Megan Fox with a penis or Tom Hiddleston with a vagina?",
+"Would you rather have sex with Megan Fox with a penis or Tom Hiddleston with a vagina?",
 "Would you rather have your body found on a pile of sex toys or a pile of drugs?",
-" Would you rather be incredibly happy but alone forever or unhappy but with the love of your life?",
+"Would you rather be incredibly happy but alone forever or unhappy but with the love of your life?",
 "Would you rather a vampire or a wizard?",
 "Would you rather be in a real version of The Walking Dead or Jurassic Park?"
 
