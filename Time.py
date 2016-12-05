@@ -1,4 +1,4 @@
-## Replace America/New_York With your Timezone
+## Replace "America/New_York" With your Timezone
 
 ## They can be found here
 
