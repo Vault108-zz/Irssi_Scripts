@@ -8,4 +8,4 @@ a = (random.randint(1,151))
 
 b = (random.randint(1,151))
 
-print "pokemon.alexonsager.net/%s/%s" % (a, b)
+print  "Random Pokemon: " "pokemon.alexonsager.net/%s/%s" % (a, b)
